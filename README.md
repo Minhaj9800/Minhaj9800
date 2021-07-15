@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is Minhajur Rahman, 4th year Computer Science Student at University of Prince Edward Island.
+
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
