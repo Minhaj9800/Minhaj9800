@@ -1,4 +1,4 @@
-###                                  Hi there 👋 My name is Minhajur Rahman
+###                                  Hi 👋 My name is Minhajur Rahman
 
 I am 4th year Computer Science Student at University of Prince Edward Island.
 
