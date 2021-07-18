@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I am Minhajur Rahman</h1>
 <h3 align="center">A fourth-year research focused Computer Science Student at UPEI</h3>
 
-<h5> Short Bio: </h5>
+<h5 align="center"> Short Bio: </h5>
 
-I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic +supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William Montelpare. My interests include IoT, Cloud Computing, Machine Learning and Health Informatics.```
+<p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William Montelpare. My interests include IoT, Cloud Computing, Machine Learning and Health Informatics.</p>
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
