@@ -5,7 +5,7 @@
 
 <p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William Montelpare. My interests include IoT, Cloud Computing, Machine Learning and Health Informatics.</p>
 
-<p align="left"> Technologies I use most:</h4>
+<p align="left">To connect with me:</h4>
 <a href="https://twitter.com/afbc9e7719494da" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ritsukiotsuka" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/minhajur-rahman-06852919a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ritsukiotsuka" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006319933517" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Minhaj Ridwan" height="30" width="40" /></a>
