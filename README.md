@@ -5,12 +5,12 @@
 
 <p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William Montelpare. My interests include IoT, Cloud Computing, Machine Learning and Health Informatics.</p>
 
-### I work with these technologies the most!
+### I work with following technologies most!
 
-[<img align="left" alt="Java" width="26px" src="icons/java.jpg" />][java]
-[<img align="left" alt="Python" width="26px" src="icons/py.svg" />][pyhon]
-[<img align="left" alt="PHP" width="26px" src="icons/php.svg" />][php]
-[<img align="left" alt="JavaScript" width="26px" src="icons/js.png" />][javascript]
+[<img align="left" alt="Java" width="36px" src="icons/java.jpg" />][java]
+[<img align="left" alt="Python" width="36px" src="icons/py.png" />][pyhon]
+[<img align="left" alt="PHP" width="36px" src="icons/php.svg" />][php]
+[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />][javascript]
 <br><br>
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
