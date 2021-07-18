@@ -29,6 +29,7 @@
 [laravel]: https://laravel.com/
 [bootstrap]: https://getbootstrap.com/
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Minhaj9800&" alt="Minhaj9800" /></p>
 
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
