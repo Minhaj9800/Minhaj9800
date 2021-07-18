@@ -7,11 +7,14 @@
 
 ### I work with following technologies most!
 
-[<img align="left" alt="Java" width="46px" src="icons/java.jpg" />][Java]
-[<img align="left" alt="Python" width="36px" src="icons/py.png" />][Python]
-[<img align="left" alt="PHP" width="36px" src="icons/php.svg" />][Php]
-[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />][JavaScript]
-[<img align="left" alt="CSS" width="36px" src="icons/CSS.jpg" />][CSS]
+[<img align="left" alt="Java" width="46px" src="icons/java.jpg" />]
+[<img align="left" alt="Python" width="36px" src="icons/py.png" />]
+[<img align="left" alt="PHP" width="36px" src="icons/php.svg" />]
+[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />]
+[<img align="left" alt="CSS" width="46px" src="icons/CSS.jpg" />]
+[<img align="left" alt="HTML" width="36px" src="icons/HTML.png" />]
+[<img align="left" alt="Laravel" width="36px" src="icons/laravel.svg" />]
+[<img align="left" alt="Bootstrap" width="36px" src="icons/bootstrap.png" />]
 
 <br><br>
 
