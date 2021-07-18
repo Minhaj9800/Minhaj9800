@@ -27,7 +27,7 @@
 [css]: https://developer.mozilla.org/en-US/docs/https://developer.mozilla.org/en-US/docs/Web/HTMLWeb/CSS
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [laravel]: https://laravel.com/
-[bootstarp]: https://getbootstrap.com/
+[bootstrap]: https://getbootstrap.com/
 
 
 <!--
