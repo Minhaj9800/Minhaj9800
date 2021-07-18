@@ -7,14 +7,10 @@
 
 ### I work with these technologies the most!
 
-[<img align="left" alt="C++" width="26px" src="icons/java.jpg" />][java]
-[<img align="left" alt="Dart" width="26px" src="icons/py.svg" />][pyhon]
-[<img align="left" alt="Django" width="26px" src="icons/php.svg" />][php]
-[<img align="left" alt="Flutter" width="26px" src="icons/js.png" />][javascript]
-[<img align="left" alt="Git" width="26px" src="icons/git.svg" />][git]
-[<img align="left" alt="Java" width="26px" src="icons/java.svg" />][java]
-[<img align="left" alt="Python" width="26px" src="icons/python.svg" />][python]
-[<img align="left" alt="Visual Studio Code" width="26px" src="icons/visualstudiocode.svg" />][vscode]
+[<img align="left" alt="Java" width="26px" src="icons/java.jpg" />][java]
+[<img align="left" alt="Python" width="26px" src="icons/py.svg" />][pyhon]
+[<img align="left" alt="PHP" width="26px" src="icons/php.svg" />][php]
+[<img align="left" alt="JavaScript" width="26px" src="icons/js.png" />][javascript]
 <br><br>
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
