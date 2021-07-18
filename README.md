@@ -11,7 +11,7 @@
 [<img align="left" alt="Python" width="36px" src="icons/py.png" />][Python]
 [<img align="left" alt="PHP" width="36px" src="icons/php.svg" />][Php]
 [<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />][JavaScript]
-[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />][JavaScript]
+[<img align="left" alt="CSS" width="36px" src="icons/CSS.jpg" />][CSS]
 
 <br><br>
 
