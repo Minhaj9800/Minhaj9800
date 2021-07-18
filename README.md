@@ -4,7 +4,7 @@
 <h4 align="center"> Short Bio: </h4>
 
 <p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William Montelpare. My interests include IoT, Cloud Computing, Machine Learning and Health Informatics.</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Minhaj9800&label=Profile%20views&color=0e75b6&style=flat" alt="Minhaj9800" /> </p>
 ### I work with following technologies most!
 
 [<img align="left" alt="Java" width="46px" src="icons/java.jpg" />][java]
