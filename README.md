@@ -9,7 +9,7 @@
 
 [<img align="left" alt="Java" width="26px" src="icons/java.jpg" />][java]
 [<img align="left" alt="Python" width="26px" src="icons/py.svg" />][pyhon]
-[<img align="left" alt="PHP" width="26px" src="icons/php.png" />][php]
+[<img align="left" alt="PHP" width="26px" src="icons/php.svg" />][php]
 [<img align="left" alt="JavaScript" width="26px" src="icons/js.png" />][javascript]
 <br><br>
 <!--
