@@ -7,10 +7,12 @@
 
 ### I work with following technologies most!
 
-[<img align="left" alt="Java" width="36px" src="icons/java.jpg" />]
-[<img align="left" alt="Python" width="36px" src="icons/py.png" />]
-[<img align="left" alt="PHP" width="36px" src="icons/php.svg" />]
-[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />]
+[<img align="left" alt="Java" width="46px" src="icons/java.jpg" />][Java]
+[<img align="left" alt="Python" width="36px" src="icons/py.png" />][Python]
+[<img align="left" alt="PHP" width="36px" src="icons/php.svg" />][Php]
+[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />][JavaScript]
+[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />][JavaScript]
+
 <br><br>
 
 <img align="left" alt="Minhajur's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=Minhaj9800&show_icons=true&count_private=trueshow_icons=true&hide_border=true&hide=issues,contribs&theme=tokyonight"/>
