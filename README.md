@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img align="left" alt="Minhajur's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=Minhaj9800&show_icons=true&count_private=trueshow_icons=true&hide_border=true&hide=issues,contribs&theme=tokyonight"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Minhaj9800&show_icons=true&locale=en" alt="Minhaj9800" /></p>
 
 [java]: https://docs.oracle.com/en/java/
 [python]: https://docs.python.org/3/
