@@ -12,6 +12,8 @@
 [<img align="left" alt="PHP" width="36px" src="icons/php.svg" />]
 [<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />]
 <br><br>
+
+<img align="left" alt="Minhajur's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=Minhaj9800&show_icons=true&count_private=trueshow_icons=true&hide_border=true&hide=issues,contribs&theme=tokyonight"/>
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
