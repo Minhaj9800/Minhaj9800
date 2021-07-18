@@ -7,10 +7,10 @@
 
 ### I work with following technologies most!
 
-[<img align="left" alt="Java" width="36px" src="icons/java.jpg" />][java]
-[<img align="left" alt="Python" width="36px" src="icons/py.png" />][pyhon]
-[<img align="left" alt="PHP" width="36px" src="icons/php.svg" />][php]
-[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />][javascript]
+[<img align="left" alt="Java" width="36px" src="icons/java.jpg" />]
+[<img align="left" alt="Python" width="36px" src="icons/py.png" />]
+[<img align="left" alt="PHP" width="36px" src="icons/php.svg" />]
+[<img align="left" alt="JavaScript" width="36px" src="icons/js.png" />]
 <br><br>
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
