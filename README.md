@@ -6,14 +6,14 @@
 <p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William Montelpare. My interests include IoT, Cloud Computing, Machine Learning and Health Informatics.</p>
 
 <h4 align="left">Connect with me:</h4>
-<p align="left">
+<p align="left"> Technologies I use most:</h4>
 <a href="https://twitter.com/afbc9e7719494da" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ritsukiotsuka" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/minhajur-rahman-06852919a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ritsukiotsuka" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006319933517" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Minhaj Ridwan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/minhaj_ridwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="minhaj_ridwan" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Minhaj9800&label=Profile%20views&color=0e75b6&style=flat" alt="Minhaj9800" /> </p>
-### I work with following technologies most!
+<h4 align = left>I work with following technologies most!
 
 [<img align="left" alt="Java" width="46px" src="icons/java.jpg" />][java]
 [<img align="left" alt="Python" width="36px" src="icons/py.png" />][python]
