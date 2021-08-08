@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Minhaj9800&show_icons=true&locale=en" alt="Minhaj9800" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Minhaj9800&" alt="Minhaj9800" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj9800&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj9800&layout=compact)-->
 
 <!--
 **Minhaj9800/Minhaj9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
