@@ -7,7 +7,7 @@
 
 <h4 align="left">To connect with me:</h4>
 <a href="https://twitter.com/afbc9e7719494da" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Minhajur" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/minhajur-rahman-06852919a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ritsukiotsuka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/minhajur-rahman-06852919a/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="ritsukiotsuka" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006319933517" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="Minhaj Ridwan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/minhaj_ridwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="minhaj_ridwan" height="30" width="40" /></a>
 </p>
