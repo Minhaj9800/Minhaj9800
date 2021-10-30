@@ -9,7 +9,7 @@
 <a href="https://twitter.com/afbc9e7719494da" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Minhajur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/minhajur-rahman-06852919a/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="ritsukiotsuka" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006319933517" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="Minhaj Ridwan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/minhaj_ridwan/" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" alt="minhaj_ridwan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/minhaj_ridwan/" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/169-1696957_instagram-icon-instagram-icon-svg-white.png" alt="minhaj_ridwan" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Minhaj9800&label=Profile%20views&color=0e75b6&style=flat" alt="Minhaj9800" /> </p>
 <h4 align = left>Technologies I use most: </h4>
