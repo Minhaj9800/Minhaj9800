@@ -3,7 +3,7 @@
 
 <h4 align="center"> Short Bio: </h4>
 
-<p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William J.Montelpare. My interests include IoT, Cloud Computing, Machine Learning and Health Informatics.</p>
+<p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William J.Montelpare. My interests include Machine Learning and Health Informatics, IoT, and Cloud Computing</p>
 
 <h4 align="left">To connect with me:</h4>
 <a href="https://twitter.com/afbc9e7719494da" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Minhajur" height="30" width="40" /></a>
