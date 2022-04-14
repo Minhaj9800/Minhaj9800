@@ -3,7 +3,8 @@
 
 <h4 align="center"> Short Bio: </h4>
 
-<p style="center">I am a 4th year Computer Science Student at the School of Mathematical and Computational Sciences, University of Prince Edward Island, Canada. My academic supervisor is Dr. Yingwei Wang, with whom I have been working for the last two years. I am currently working as a Research Assistant and Software Developer at Health Center Research Clinic, UPEI under Dr. William J.Montelpare. My interests include Machine Learning,Health Informatics,IoT,and Cloud Computing</p>
+<p style="center">My name is Minhajur Rahman. I work as a software developer on the AI/ML team at Thinking Big, Inc. in Charlottetown, Prince Edward Island, Canada. I received an Honours degree in Computer Science from the University of Prince Edward Island (UPEI). My academic supervisor was Dr. Yingwei Wang from UPEI's School of Mathematical and Computational Sciences (SMCS). During my time there, I also worked as a research assistant and developer for the Health Centred Research Clinic, where I was overseen by Dr. William J Montelpare.
+My current research goal is to investigate how information technologies can be used to create efficient data systems, that monitor population health indicators, track clinical services, identify critical resource gaps, detect risks, enable appropriate information sharing, and inform actions. Other research interests include: Machine Learning, Health Informatics, Predictive Analytics, and Cloud Computing.</p>
 
 <h4 align="left">To connect with me:</h4>
 <a href="https://twitter.com/afbc9e7719494da" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Minhajur" height="30" width="40" /></a>
