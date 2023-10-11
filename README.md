@@ -12,7 +12,7 @@ My current research goal is to investigate how information technologies can be u
 <!--<a href="https://www.facebook.com/profile.php?id=100006319933517" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="Minhaj Ridwan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/minhaj_ridwan/" target="blank"><img align="center" src="https://www.pinpng.com/pngs/m/205-2058136_download-logo-instagram-vector-svg-eps-png-psd.png" alt="minhaj_ridwan" height="30" width="40" /></a>
 </p>-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Minhaj9800&label=Profile%20views&color=0e75b6&style=flat" alt="Minhaj9800" /></p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Minhaj9800&label=Profile%20views&color=0e75b6&style=flat" alt="Minhaj9800" /></p> --->
 <h4 align = left>Technologies I use most: </h4>
 
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.r-project.org/" target="_blank"><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="40"></a> 
