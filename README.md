@@ -7,7 +7,7 @@
 My current research goal is to investigate how information technologies can be used to create efficient data systems, that monitor population health indicators, track clinical services, identify critical resource gaps, detect risks, enable appropriate information sharing, and inform actions. Other research interests include: Machine Learning, Health Informatics, Predictive Analytics, and Cloud Computing.</p>
 
 <h4 align="left">To connect with me:</h4>
-<a href="https://twitter.com/afbc9e7719494da" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Minhajur" height="30" width="40" /></a>
+<a href="https://x.com/minhajurcs" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" alt="Minhajur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/minhajur-rahman-06852919a/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="minhaj" height="30" width="40" /> </a>
 <!--<a href="https://www.facebook.com/profile.php?id=100006319933517" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="Minhaj Ridwan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/minhaj_ridwan/" target="blank"><img align="center" src="https://www.pinpng.com/pngs/m/205-2058136_download-logo-instagram-vector-svg-eps-png-psd.png" alt="minhaj_ridwan" height="30" width="40" /></a>
